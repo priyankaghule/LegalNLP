@@ -1,0 +1,48 @@
+<Case>
+  <Court>
+    <CourtName>bombay</CourtName>
+  </Court>
+  <PartiesGroup>
+    <Parties>
+      <PetitionerGroup>
+        <Petitioner Type="plaintiff">pidilite industries limited</Petitioner>
+      </PetitionerGroup>
+      <RespondentGroup>
+        <Respondent Type="defendant">jubilant agri consumer products limited</Respondent>
+      </RespondentGroup>
+    </Parties>
+  </PartiesGroup>
+  <CounselGroup>
+    <forPetitioner>
+      <CounselName>mr vr dhond</CounselName>
+      <CounselName>mr nishad nadkarni</CounselName>
+      <CounselName>mr vaibhav keni</CounselName>
+      <CounselName>mr sumeet rane</CounselName>
+      <CounselName>ms legasis partners</CounselName>
+    </forPetitioner>
+    <forRespondent>
+      <CounselName>mr ravi kadam</CounselName>
+      <CounselName>mr aa kirpekar</CounselName>
+      <CounselName>mag legal</CounselName>
+    </forRespondent>
+  </CounselGroup>
+  <CoramGroup>
+    <Judge Position="j">sj kathawalla</Judge>
+  </CoramGroup>
+  <Date Month="january" Date="13" Year="2014" Type="pronounced">13th january 2014</Date>
+  <Date Month="october" Date="10" Year="2013" Type="reserved">10th october 2013</Date>
+  <JudgementGroup Title="order">
+    <Para>
+      <Cite>
+        <Title>itc limited company vsom gtc industries ltd</Title>
+        <Citation>english law of joseph crosfield</Citation>
+      </Cite>
+      <Act>
+        <Title id="tma-1999">trade marks act 1999</Title>
+      </Act>
+      <SecRef>
+        <Title id="tma-1999-9c">9 c</Title>
+      </SecRef>
+    </Para>
+  </JudgementGroup>
+</Case>
